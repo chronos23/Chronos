@@ -363,6 +363,8 @@ http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41067462089/344dtg465/1050.ts
 https://nl.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="HAL TV",Pigoo
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41067462089/344dtg465/881.ts
+#EXTINF:-1 group-title="HAL TV",V Paradise
+https://nl.utako.moe/v_paradise/index.m3u8
 #EXTINF:-1 group-title="HAL",Japanese1
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41067462089/344dtg465/1041.ts
 #EXTINF:-1 group-title="HAL",Japanese2
@@ -587,6 +589,7 @@ http://proxy.nr3.xyz:80/max289/991374465/52003
 http://proxy.nr3.xyz:80/max289/991374465/52004
 #EXTINF:-1 group-title="HAL West",ADULTO 20
 http://proxy.nr3.xyz:80/max289/991374465/52005
+
 
 
 
