@@ -337,30 +337,34 @@ http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/776
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/988.ts
 #EXTINF:-1 group-title="HAL TV",HAPPY
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/986.ts
-#EXTINF:-1 group-title="HAL TV",Banana香蕉台HD
+#EXTINF:-1 group-title="HAL TV" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
+http://125.227.210.55:1009/VideoInput/play.ts
+#EXTINF:-1 group-title="HAL TV",Banana香蕉台
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/983.ts
-#EXTINF:-1 group-title="HAL TV",驚艷台
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/982.ts
 #EXTINF:-1 group-title="HAL TV",驚艷台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 #EXTINF:-1 group-title="HAL TV",驚艷台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-#EXTINF:-1 group-title="HAL TV",潘朵拉完美
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/981.ts
+#EXTINF:-1 group-title="HAL TV",驚艷台
+http://125.227.210.55:3016/VideoInput/play.ts
+#EXTINF:-1 group-title="HAL TV",驚艷台
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/982.ts
 #EXTINF:-1 group-title="HAL TV",潘朵拉完美
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-#EXTINF:-1 group-title="HAL TV",松视1
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/984.ts
+#EXTINF:-1 group-title="HAL TV",潘朵拉完美
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/981.ts
 #EXTINF:-1 group-title="HAL TV",松视1
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 group-title="HAL TV",松视2
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/985.ts
+#EXTINF:-1 group-title="HAL TV",松视1
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/984.ts
 #EXTINF:-1 group-title="HAL TV",松视2
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 group-title="HAL TV",松视2
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/985.ts
 #EXTINF:-1 group-title="HAL TV",松視3
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 #EXTINF:-1 group-title="HAL TV",Playboy
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/996.ts
+http://lunar.pm:8080/leslie/snook/131339
 #EXTINF:-1 group-title="HAL TV",Playboy
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="HAL TV",Playboy
@@ -372,8 +376,6 @@ http://213.226.69.130/iptv/3K5Z3VE8M7N89U/6242/index.m3u8
 #EXTINF:-1 group-title="HAL TV",Playboy
 http://213.226.69.130/iptv/3K5Z3VE8M7N89U/12135/index.m3u8
 #EXTINF:-1 group-title="HAL TV",Playboy
-http://lunar.pm:8080/leslie/snook/131339
-#EXTINF:-1 group-title="HAL TV",Playboy
 http://91.218.50.136:8080/Rose35torres/iB7101/1877
 #EXTINF:-1 group-title="HAL TV",Playboy
 http://91.218.50.136:8080/Rose35torres/iB7101/2297
@@ -381,9 +383,10 @@ http://91.218.50.136:8080/Rose35torres/iB7101/2297
 http://91.218.50.136:8080/Rose35torres/iB7101/1877
 #EXTINF:-1 group-title="HAL TV",Playboy
 http://khx88.com:80/5197464030josiel2/gtsd967kc/643
-
 #EXTINF:-1 group-title="HAL TV",Playboy
 http://sinalprivado.info:80/632035/GqGcFV4ntu/40000
+#EXTINF:-1 group-title="HAL TV",Playboy
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/996.ts
 #EXTINF:-1 group-title="HAL TV",极限电影台
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/987.ts
 #EXTINF:-1 group-title="HAL TV",三级片24小时播放
@@ -396,6 +399,27 @@ https://nl.utako.moe/pigoo/index.m3u8
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/881.ts
 #EXTINF:-1 group-title="HAL TV",V Paradise
 https://nl.utako.moe/v_paradise/index.m3u8
+#EXTINF:-1 group-title="HAL TV",Jgirl Paradise
+http://z88.ubtvfans.com/live/rx5/3151/8b2b585365f9d90200c61f86dd76385d/index.m3u8
+#EXTINF:-1 group-title="HAL TV",Jgirl Paradise
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/1038.ts
+#EXTINF:-1 group-title="HAL TV",奧視2台
+http://125.227.210.55:1022/VideoInput/play.ts
+#EXTINF:-1 group-title="HAL TV",奧視3台
+http://125.227.210.55:3033/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="DREAMROOM" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="HAL TV",DREAMROOM
+http://lunar.pm:8080/leslie/snook/131308
+#EXTINF:-1 group-title="HAL TV",Adult Asian
+http://91.218.50.136:8080/Rose35torres/iB7101/916027
+#EXTINF:-1 tvg-logo="https://puddintap.click/ico/new/Adult/JAPAN_HDV.png" group-title="HAL TV", JAPAN HDV
+https://watch.startecmedia.xyz:443/SeanK22/9Sz5cGPbTWhS/666288
+#EXTINF:-1 tvg-logo="https://dencheetah.xyz:443/images/yIFZT7dpUDF8SbNBpUnYhe_FeqN0DjzmKGl7GcQyogLnCb59XTOInwfb0ZPEJVNajLhI7-S9RQGXxBoZpGArLg.png" group-title="HAL TV", JAPAN HDV 2
+https://watch.startecmedia.xyz:443/SeanK22/9Sz5cGPbTWhS/666289
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a899645c5764107cc5c111a3ae72df2e.png" group-title="HAL TV", AV TAXI - PORNBOX
+https://watch.startecmedia.xyz:443/SeanK22/9Sz5cGPbTWhS/666731
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a899645c5764107cc5c111a3ae72df2e.png" group-title="HAL TV", ASIAN FOOTJOB - PORNBOX
+https://watch.startecmedia.xyz:443/SeanK22/9Sz5cGPbTWhS/666727
+
 #EXTINF:-1 group-title="HAL",Japanese1
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/1041.ts
 #EXTINF:-1 group-title="HAL",Japanese2
@@ -456,8 +480,6 @@ http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/776
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/1036.ts
 #EXTINF:-1 group-title="HAL",Tokyo Hot
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/1037.ts
-#EXTINF:-1 group-title="HAL",Jgirl Paradise
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/1038.ts
 #EXTINF:-1 group-title="HAL",VR
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/1047.ts
 #EXTINF:-1 group-title="HAL",Gym Porn
@@ -580,46 +602,6 @@ http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/776
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/980.ts
 #EXTINF:-1 group-title="HAL",Chinese26
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/990.ts
-#EXTINF:-1 group-title="HAL West",ADULTO 01
-http://proxy.nr3.xyz:80/max289/991374465/51986
-#EXTINF:-1 group-title="HAL West",ADULTO 02
-http://proxy.nr3.xyz:80/max289/991374465/51987
-#EXTINF:-1 group-title="HAL West",ADULTO 03
-http://proxy.nr3.xyz:80/max289/991374465/51988
-#EXTINF:-1 group-title="HAL West",ADULTO 04
-http://proxy.nr3.xyz:80/max289/991374465/51989
-#EXTINF:-1 group-title="HAL West",ADULTO 05
-http://proxy.nr3.xyz:80/max289/991374465/51990
-#EXTINF:-1 group-title="HAL West",ADULTO 06
-http://proxy.nr3.xyz:80/max289/991374465/51991
-#EXTINF:-1 group-title="HAL West",ADULTO 07
-http://proxy.nr3.xyz:80/max289/991374465/51992
-#EXTINF:-1 group-title="HAL West",ADULTO 08
-http://proxy.nr3.xyz:80/max289/991374465/51993
-#EXTINF:-1 group-title="HAL West",ADULTO 09
-http://proxy.nr3.xyz:80/max289/991374465/51994
-#EXTINF:-1 group-title="HAL West",ADULTO 10
-http://proxy.nr3.xyz:80/max289/991374465/51995
-#EXTINF:-1 group-title="HAL West",ADULTO 11
-http://proxy.nr3.xyz:80/max289/991374465/51996
-#EXTINF:-1 group-title="HAL West",ADULTO 12
-http://proxy.nr3.xyz:80/max289/991374465/51997
-#EXTINF:-1 group-title="HAL West",ADULTO 13
-http://proxy.nr3.xyz:80/max289/991374465/51998
-#EXTINF:-1 group-title="HAL West",ADULTO 14
-http://proxy.nr3.xyz:80/max289/991374465/51999
-#EXTINF:-1 group-title="HAL West",ADULTO 15
-http://proxy.nr3.xyz:80/max289/991374465/52000
-#EXTINF:-1 group-title="HAL West",ADULTO 16
-http://proxy.nr3.xyz:80/max289/991374465/52001
-#EXTINF:-1 group-title="HAL West",ADULTO 17
-http://proxy.nr3.xyz:80/max289/991374465/52002
-#EXTINF:-1 group-title="HAL West",ADULTO 18
-http://proxy.nr3.xyz:80/max289/991374465/52003
-#EXTINF:-1 group-title="HAL West",ADULTO 19
-http://proxy.nr3.xyz:80/max289/991374465/52004
-#EXTINF:-1 group-title="HAL West",ADULTO 20
-http://proxy.nr3.xyz:80/max289/991374465/52005
 
 
 
