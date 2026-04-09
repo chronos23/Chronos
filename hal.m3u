@@ -228,6 +228,8 @@ http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/776
 #EXTINF:-1 group-title="Music",Music Japan channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 #EXTINF:-1 group-title="Music",Music Japan channel
+https://arva.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Music",Music Japan channel
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/857.ts
 #EXTINF:-1 group-title="Music",Music Japan channel
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/880.ts
@@ -235,18 +237,24 @@ http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/776
 https://nl.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 group-title="Music",Space Shower TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+#EXTINF:-1 group-title="Music",Space Shower TV
+https://arva.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Music",Space Shower TV
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/858.ts
 #EXTINF:-1 group-title="Music",MTV Japan
 https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="Music",MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 group-title="Music",MTV Japan
+https://arva.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Music",MTV Japan
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/859.ts
 #EXTINF:-1 group-title="Music",Music on Japan
 https://nl.utako.moe/musicon/index.m3u8
 #EXTINF:-1 group-title="Music",Music on Japan
+https://arva.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Music",Music on Japan
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/860.ts
-#EXTINF:-1 group-title="Music",Music Video special
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/858.ts
 #EXTINF:-1 group-title="Music",Mnet Korea
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/919.ts
 #EXTINF:-1 group-title="Music",V Channel
