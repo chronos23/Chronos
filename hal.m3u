@@ -35,6 +35,92 @@ https://cdn-2.ttvb.eu.org/api/YoYo-TV/index.m3u8
 https://cdn-2.ttvb.eu.org/api/Hollywood-Movie/index.m3u8
 #EXTINF:-1 group-title="台灣",龍祥時代
 https://cdn-2.ttvb.eu.org/api/LSTIME-Movie/index.m3u8
+#EXTINF:-1 group-title="台灣",民視影劇
+https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
+#EXTINF:-1 group-title="台灣",公視戲劇
+https://cdn12.178.indevs.in/163189/2973b910e7719c08
+#EXTINF:-1 group-title="台灣",采昌影劇台
+https://cdn12.178.indevs.in/163189/0a6204ed0261460c
+#EXTINF:-1 group-title="台灣",靖天映畫
+https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+#EXTINF:-1 group-title="台灣",靖天戲劇台
+https://cdn12.178.indevs.in/163189/177d541552f78003
+#EXTINF:-1 group-title="台灣",靖天電影台
+https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
+#EXTINF:-1 group-title="台灣",靖洋戲劇
+https://cdn12.178.indevs.in/163189/5c1cf6af04d96cb4
+#EXTINF:-1 group-title="台灣",影迷數位電影台
+https://cdn12.178.indevs.in/163189/a643783ec587540e
+#EXTINF:-1 group-title="台灣",amc電影台
+https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+#EXTINF:-1 group-title="台灣",CinemaWorld
+https://cdn12.178.indevs.in/163189/6086cfe7a9756110
+#EXTINF:-1 group-title="台灣",My Cinema Europe
+https://cdn12.178.indevs.in/163189/5bda99f1c049edef
+#EXTINF:-1 group-title="台灣",經典電影台
+https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
+#EXTINF:-1 group-title="台灣",CMusic
+https://cdn12.178.indevs.in/163189/d396cb84b6c89889
+#EXTINF:-1 group-title="台灣",DreamWorks夢工廠動畫
+https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
+#EXTINF:-1 group-title="台灣",精選動漫台
+https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
+#EXTINF:-1 group-title="台灣",金光布袋戲
+https://cdn12.178.indevs.in/163189/5479c245d9d580b5
+#EXTINF:-1 group-title="台灣",鳳凰中文
+http://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 group-title="台灣",鳳凰資訊
+http://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 group-title="台灣",鳳凰香港
+http://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 group-title="台灣",翡翠台4K
+http://cdn6.163189.xyz/163189/fct4k
+#EXTINF:-1 group-title="台灣",無線星河
+http://cdn6.163189.xyz/163189/tvbxh
+#EXTINF:-1 group-title="台灣",Channel 5 HD
+http://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 group-title="台灣",Channel 8 HD
+http://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 group-title="台灣",Channel U HD
+http://cdn6.163189.xyz/163189/chu
+#EXTINF:-1 group-title="台灣",HOY77
+https://cdn6.163189.xyz/163189/hoy
+#EXTINF:-1 group-title="台灣",澳視澳門
+https://cdn6.163189.xyz/163189/asam
+#EXTINF:-1 group-title="台灣",澳門體育
+http://cdn6.163189.xyz/163189/amty
+#EXTINF:-1 group-title="台灣",澳視衛星
+https://cdn6.163189.xyz/163189/as
+#EXTINF:-1 group-title="台灣",澳門綜藝
+http://cdn6.163189.xyz/163189/amzy
+#EXTINF:-1 group-title="台灣",TVB星河
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 group-title="台灣",TVB星河
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=424
+#EXTINF:-1 group-title="台灣",愛奇藝
+https://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1 group-title="台灣",Astro AEC
+https://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 group-title="台灣",Astro AOD
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 group-title="台灣",Astro QJ
+https://o11.163189.xyz/stream/live/qj/ 
+#EXTINF:-1 tvg-name="HUAHEEDAI" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/HUA HEE DAI.png" group-title="台灣",ASTRO歡喜台
+http://o11.163189.xyz/stream/live/hxt/
+#EXTINF:-1 tvg-name="IQIYI" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/愛奇藝.png" group-title="台灣",IQIYI
+http://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1 group-title="台灣",民視新聞(211)
+http://211.72.174.95:8117/0.ts
+#EXTINF:-1 group-title="台灣",中視(211)
+http://211.72.174.95:8113/0.ts
+#EXTINF:-1 group-title="台灣",華視(211)
+http://211.72.174.95:8114/0.ts
+#EXTINF:-1 group-title="台灣",公視(211)
+http://211.72.174.95:8116/0.ts
+#EXTINF:-1 group-title="台灣",民視(211)
+http://211.72.174.95:8115/0.ts
+#EXTINF:-1 group-title="台灣",台視(211)
+http://211.72.174.95:8112/0.ts
 #EXTINF:-1 group-title="台灣",CINEMAX
 https://cdn-2.ttvb.eu.org/api/Cinemax/index.m3u8
 #EXTINF:-1 group-title="台灣",MTV Live
@@ -544,6 +630,8 @@ https://nl.utako.moe/musicon/index.m3u8
 https://arva.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Music",Music on Japan
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/860.ts
+#EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Kpop_TV_Play.png/revision/latest?cb=20230625152624",K-POP TV play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 #EXTINF:-1 group-title="Music",Mnet Korea
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/919.ts
 #EXTINF:-1 group-title="Music",V Channel
