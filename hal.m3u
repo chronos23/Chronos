@@ -1424,6 +1424,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 #EXTINF:-1 group-title="Music",Music Japan channel
 https://arva.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Music",Music Japan channel
+https://akariko.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Music",Music Japan channel
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/857.ts
 #EXTINF:-1 group-title="Music",Music Japan channel
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/880.ts
@@ -1433,6 +1435,8 @@ https://nl.utako.moe/spaceshower/index.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 #EXTINF:-1 group-title="Music",Space Shower TV
 https://arva.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Music",Space Shower TV
+https://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Music",Space Shower TV
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/858.ts
 #EXTINF:-1 group-title="Music",MTV Japan
