@@ -335,10 +335,6 @@ https://z3.ubtvfans.com/live/rx3/415/15b51d347d222d169964b2bcf3535be2/index.m3u8
 http://atryffad.usa3.345123.xyz/jrw.php?id=Rainbowmovie
 #EXTINF:-1 group-title="HAL TV",HAPPY
 http://atryffad.usa3.345123.xyz/jrw.php?id=HappyHD
-#EXTINF:-1 group-title="HAL TV" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
-http://125.227.210.55:1009/VideoInput/play.ts
-#EXTINF:-1 group-title="HAL TV" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
 #EXTINF:-1 group-title="HAL TV",驚艷台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 #EXTINF:-1 group-title="HAL TV",驚艷台
@@ -363,10 +359,28 @@ http://atryffad.usa3.345123.xyz/jrw.php?id=sonsee2
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 #EXTINF:-1 group-title="HAL TV",松視3
 http://atryffad.usa3.345123.xyz/jrw.php?id=SonSee3hd
+#EXTINF:-1 group-title="HAL TV",彩虹K
+http://atryffad.usa3.345123.xyz/jrw.php?id=RainBowK
+#EXTINF:-1 group-title="HAL TV" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
+http://125.227.210.55:1009/VideoInput/play.ts
+#EXTINF:-1 group-title="HAL TV" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
+#EXTINF:-1 group-title="HAL TV",奧視2台
+http://125.227.210.55:1022/VideoInput/play.ts
+#EXTINF:-1 group-title="HAL TV",奧視3台
+http://125.227.210.55:3033/VideoInput/play.ts
+#EXTINF:-1 group-title="HAL TV",Eroluxe Japanese
+http://u.vipl.one/high/ierw63qgf1/1694.m3u8
+#EXTINF:-1 group-title="HAL TV",Pigoo
+https://akariko.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="HAL TV",Pigoo
+http://atryffad.usa3.345123.xyz/jrw.php?id=IdolspecialtychannelPigooHD
+#EXTINF:-1 group-title="HAL TV",V Paradise
+https://akariko.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="HAL TV",Eroluxe Hentai
+http://u.vipl.one/high/ierw63qgf1/1693.m3u8
 #EXTINF:-1 group-title="HAL TV",J Star Movies
 http://atryffad.usa3.345123.xyz/jrw.php?id=JStarMovies
-#EXTINF:-1 group-title="HAL TV",Rainbow
-https://z3.ubtvfans.com/live/rx3/406/03c7100e4af027d56d4a65f2ac40740d/index.m3u8
 #EXTINF:-1 group-title="HAL TV",Playboy
 http://lunar.pm:8080/leslie/snook/131339
 #EXTINF:-1 group-title="HAL TV",Playboy
@@ -393,28 +407,14 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/N38U657879GPVVDFAYZ26AX5
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/31716/index.m3u8
 #EXTINF:-1 group-title="HAL TV",nuart
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31716/index.m3u8
-#EXTINF:-1 group-title="HAL TV",BabesTV
-http://atryffad.usa3.345123.xyz/jrw.php?id=BabesTV
-#EXTINF:-1 group-title="HAL TV",彩虹K
-http://atryffad.usa3.345123.xyz/jrw.php?id=RainBowK
-#EXTINF:-1 group-title="HAL TV",Pigoo
-https://akariko.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="HAL TV",Pigoo
-http://atryffad.usa3.345123.xyz/jrw.php?id=IdolspecialtychannelPigooHD
-#EXTINF:-1 group-title="HAL TV",V Paradise
-https://akariko.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="HAL TV",奧視2台
-http://125.227.210.55:1022/VideoInput/play.ts
-#EXTINF:-1 group-title="HAL TV",奧視3台
-http://125.227.210.55:3033/VideoInput/play.ts
-#EXTINF:-1 group-title="HAL TV",Eroluxe Japanese
-http://u.vipl.one/high/ierw63qgf1/1694.m3u8
-#EXTINF:-1 group-title="HAL TV",Eroluxe Hentai
-http://u.vipl.one/high/ierw63qgf1/1693.m3u8
+#EXTINF:-1 group-title="HAL TV",Rainbow
+https://z3.ubtvfans.com/live/rx3/406/03c7100e4af027d56d4a65f2ac40740d/index.m3u8
 #EXTINF:-1 group-title="HAL TV",Sora Aoi
 https://z3.ubtvfans.com/live/rx5/3154/e69148d5bbcc6f22eed89add60d7e9d1/index.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/new/Adult/JAPAN_HDV.png" group-title="HAL TV", JAPAN HDV
 http://88b9da48.kazmazpaz.ru:80/iptv/XVU58NBPX2LUMP/6225/manifest.m3u8
+#EXTINF:-1 group-title="HAL TV",BabesTV
+http://atryffad.usa3.345123.xyz/jrw.php?id=BabesTV
 
 #EXTINF:0 tvg-id="1684" tvg-logo="http://epg.cdntv.online/img/1684.png" group-title="EroLuxe ADULT",60FPS
 http://u.vipl.one/high/ierw63qgf1/1684.m3u8
