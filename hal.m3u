@@ -416,11 +416,11 @@ http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31716/index.m3u8
 #EXTINF:-1 group-title="HAL TV",彩虹K
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/988.ts
 #EXTINF:-1 group-title="HAL TV",Pigoo
-http://arva.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
+https://akariko.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="HAL TV",Pigoo
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/881.ts
 #EXTINF:-1 group-title="HAL TV",V Paradise
-http://arva.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
+https://akariko.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="HAL TV",MAX J
 http://domestipo1.online:80/Antonioal2026/xFEAAKhdf6/596874.ts
 #EXTINF:-1 group-title="HAL TV",MAX J
@@ -1717,37 +1717,23 @@ http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/776
 #EXTINF:-1 group-title="Chinese",Thrill Chinese
 http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/66.ts
 #EXTINF:-1 group-title="Music",Music Japan channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=9-15
 #EXTINF:-1 group-title="Music",Music Japan channel
 https://arva.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Music",Music Japan channel
 https://akariko.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="Music",Music Japan channel
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/857.ts
-#EXTINF:-1 group-title="Music",Music Japan channel
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/880.ts
 #EXTINF:-1 group-title="Music",Space Shower TV
-https://nl.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 group-title="Music",Space Shower TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=9-15
 #EXTINF:-1 group-title="Music",Space Shower TV
 https://arva.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Music",Space Shower TV
 https://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="Music",Space Shower TV
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/858.ts
 #EXTINF:-1 group-title="Music",MTV Japan
-https://nl.utako.moe/mtv/index.m3u8
-#EXTINF:-1 group-title="Music",MTV Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=9-15
 #EXTINF:-1 group-title="Music",MTV Japan
 https://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="Music",MTV Japan
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/859.ts
 #EXTINF:-1 group-title="Music",Music on Japan
 https://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="Music",Music on Japan
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/7766443311/860.ts
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Kpop_TV_Play.png/revision/latest?cb=20230625152624",K-POP TV play
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 #EXTINF:-1 group-title="Music",Mnet Korea
