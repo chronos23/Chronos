@@ -36,7 +36,13 @@ https://cdn.19891230.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣",東森綜合
 https://cdn.19891230.eu.org/api/ET-Variety-Channel/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣",東森戲劇
+http://atryffad.usa3.345123.xyz/jrw.php?id=ettvdrama
+#EXTINF:-1 group-title="🇹🇼台灣",東森戲劇
+http://atryffad.usa3.345123.xyz/jrw.php?id=106
+#EXTINF:-1 group-title="🇹🇼台灣",東森戲劇
 https://cdn.19891230.eu.org/api/ET-Drama-Channel/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣",東森幼幼
+http://atryffad.usa3.345123.xyz/jrw.php?id=191
 #EXTINF:-1 group-title="🇹🇼台灣",東森幼幼
 https://cdn.19891230.eu.org/api/YoYo-TV/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣",東森購物一
@@ -75,6 +81,8 @@ https://cdn.19891230.eu.org/4gtv/4gtv-4gtv042/index.m3u8
 https://cdn.19891230.eu.org/api/Era-News/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣",八大精彩
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv034/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣",八大綜藝
+http://atryffad.usa3.345123.xyz/jrw.php?id=41
 #EXTINF:-1 group-title="🇹🇼台灣",八大綜藝
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv039/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣",豬哥亮歌廳秀
