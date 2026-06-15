@@ -42,7 +42,7 @@ http://atryffad.usa3.345123.xyz/jrw.php?id=106
 #EXTINF:-1 group-title="🇹🇼台灣",東森戲劇
 https://cdn.19891230.eu.org/api/ET-Drama-Channel/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣",東森幼幼
-http://atryffad.usa3.345123.xyz/jrw.php?id=191
+http://125.227.210.55:4052/VideoInput/play.ts
 #EXTINF:-1 group-title="🇹🇼台灣",東森幼幼
 https://cdn.19891230.eu.org/api/YoYo-TV/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣",東森購物一
