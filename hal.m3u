@@ -36,10 +36,6 @@ https://cdn.19891230.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣",東森綜合
 https://cdn.19891230.eu.org/api/ET-Variety-Channel/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣",東森戲劇
-http://atryffad.usa3.345123.xyz/jrw.php?id=ettvdrama
-#EXTINF:-1 group-title="🇹🇼台灣",東森戲劇
-http://atryffad.usa3.345123.xyz/jrw.php?id=106
-#EXTINF:-1 group-title="🇹🇼台灣",東森戲劇
 https://cdn.19891230.eu.org/api/ET-Drama-Channel/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣",東森幼幼
 http://125.227.210.55:4052/VideoInput/play.ts
