@@ -37,10 +37,14 @@ https://cdn.19891230.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
 https://cdn.19891230.eu.org/api/ET-Variety-Channel/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣",東森戲劇
 https://cdn.19891230.eu.org/api/ET-Drama-Channel/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣",東森戲劇
+https://kaniptv.com/xz/xz_5c63b01a3b/wwkds.php?id=dsxj
 #EXTINF:-1 group-title="🇹🇼台灣",東森幼幼
 http://125.227.210.55:4052/VideoInput/play.ts
 #EXTINF:-1 group-title="🇹🇼台灣",東森幼幼
 https://cdn.19891230.eu.org/api/YoYo-TV/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣",東森幼幼
+https://kaniptv.com/xz/xz_5c63b01a3b/wwkds.php?id=yytv
 #EXTINF:-1 group-title="🇹🇼台灣",東森購物一
 https://cdn.19891230.eu.org/4gtv/4gtv-live047/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣",東森購物二
@@ -77,10 +81,12 @@ https://cdn.19891230.eu.org/4gtv/4gtv-4gtv042/index.m3u8
 https://cdn.19891230.eu.org/api/Era-News/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣",八大精彩
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv034/index.m3u8
-#EXTINF:-1 group-title="🇹🇼台灣",八大綜藝
-http://atryffad.usa3.345123.xyz/jrw.php?id=41
+#EXTINF:-1 group-title="🇹🇼台灣",八大戲劇
+https://kaniptv.com/xz/xz_5c63b01a3b/wwkds.php?id=bdxj
 #EXTINF:-1 group-title="🇹🇼台灣",八大綜藝
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv039/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣",八大綜藝
+https://kaniptv.com/xz/xz_5c63b01a3b/wwkds.php?id=bdzh
 #EXTINF:-1 group-title="🇹🇼台灣",豬哥亮歌廳秀
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv006/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣",客家電視
