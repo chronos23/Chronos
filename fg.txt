@@ -130,8 +130,10 @@ TVBS精采台HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=47
 龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
 天映经典,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
 天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
+CHU综合,https://cdn6.163189.xyz/163189/chu
 CHU综合,http://rihou.cc:555/tv/[Pd]CHU综合
 CH5综合,http://rihou.cc:555/tv/[Pd]CH5综合
+CH8综合,https://cdn6.163189.xyz/163189/ch8
 CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 八度空间1080p,http://rihou.cc:555/tv/[Pd]八度空间
 八度空间1080p,http://iptv.4666888.xyz/iptv2A.php?id=52
