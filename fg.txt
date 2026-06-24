@@ -1,4 +1,5 @@
 港台频道,#genre#
+A&E,http://23.239.31.26:8989/aande/index.m3u8
 翡翠台1080p,http://74.91.26.218:82/live/jade.m3u8
 翡翠台1080p,https://o11.163189.xyz/stream/tvb/fct/
 翡翠台1080p,http://bxtv.3a.ink/api.php?id=fct
