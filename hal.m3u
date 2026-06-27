@@ -30,10 +30,10 @@ http://211.72.174.95:8112/0.ts
 
 #EXTINF:-1 group-title="HAL TV",彩虹E
 https://z3.ubtvfans.com/live/rx3/415/15b51d347d222d169964b2bcf3535be2/index.m3u8
+#EXTINF:-1 group-title="HAL TV",彩虹E
+https://z3.ubtvfans.com/live/rx4/2935/e950ccd5217296d1dbe7590e56dc1499/index.m3u8
 #EXTINF:-1 group-title="HAL TV",Rainbow
 https://z3.ubtvfans.com/live/rx3/406/03c7100e4af027d56d4a65f2ac40740d/index.m3u8
-#EXTINF:-1 group-title="HAL TV",Rainbow
-https://z3.ubtvfans.com/live/rx4/2935/e950ccd5217296d1dbe7590e56dc1499/index.m3u8
 #EXTINF:-1 group-title="HAL TV",驚艷台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 #EXTINF:-1 group-title="HAL TV",驚艷台
@@ -44,8 +44,6 @@ http://125.227.210.55:3016/VideoInput/play.ts
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 #EXTINF:-1 group-title="HAL TV",潘朵拉完美 PINK
 https://z3.ubtvfans.com/live/rx3/410/4bed718a67aa82a3c0c30be5919498f7/index.m3u8
-#EXTINF:-1 group-title="HAL TV",潘朵拉完美 PINK
-https://z3.ubtvfans.com/live/rx4/3076/b76a7adee38f93a3e7ccd5d1a5bdc156/index.m3u8
 #EXTINF:-1 group-title="HAL TV",松视1
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 #EXTINF:-1 group-title="HAL TV",松视2
@@ -80,8 +78,6 @@ http://u.vipl.one/high/ierw63qgf1/1693.m3u8
 https://z3.ubtvfans.com/live/rx3/405/fed61aa5af46663a552bfed2bd8c0a3f/index.m3u8
 #EXTINF:-1 group-title="HAL TV",J Star Movies
 https://z3.ubtvfans.com/live/rx3/2909/7ea5f8d0bef36a6a3503e2d148873d07/index.m3u8
-#EXTINF:-1 group-title="HAL TV",J Star Movies
-https://z3.ubtvfans.com/live/rx4/3085/4800dd054946cda34c63b8943beedba7/index.m3u8
 #EXTINF:-1 group-title="HAL TV",Playboy
 http://lunar.pm:8080/leslie/snook/131339
 #EXTINF:-1 group-title="HAL TV",Playboy
