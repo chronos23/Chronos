@@ -1,22 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="Fusion",TVB星河
 https://o11.163189.xyz/stream/live/tvbxh/
-#EXTINF:-1 group-title="Fusion",TVB星河
+#EXTINF:-1 group-title="Fusion",YG TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=424
-#EXTINF:-1 group-title="Fusion",愛奇藝
-https://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 group-title="Fusion",Astro AEC
 https://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 group-title="Fusion",Astro AOD
 https://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 group-title="Fusion",Astro QJ
-https://o11.163189.xyz/stream/live/qj/ 
 #EXTINF:-1 tvg-name="HUAHEEDAI" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/HUA HEE DAI.png" group-title="Fusion",ASTRO歡喜台
 http://o11.163189.xyz/stream/live/hxt/
 #EXTINF:-1 tvg-name="IQIYI" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/愛奇藝.png" group-title="Fusion",IQIYI
 http://o11.163189.xyz/stream/live/iqiyi/
-#EXTINF:-1 group-title="Fusion",民視新聞(211)
-http://211.72.174.95:8117/0.ts
 #EXTINF:-1 group-title="Fusion",中視(211)
 http://211.72.174.95:8113/0.ts
 #EXTINF:-1 group-title="Fusion",華視(211)
