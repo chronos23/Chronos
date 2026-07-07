@@ -23,19 +23,35 @@ http://211.72.174.95:8116/0.ts
 http://211.72.174.95:8115/0.ts
 #EXTINF:-1 group-title="Fusion",台視(211)
 http://211.72.174.95:8112/0.ts
+#EXTINF:-1 group-title="Fusion",TSN 1 HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYyNjg3Ni50cw==
+#EXTINF:-1 group-title="Fusion",TSN 2 HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYyNjg3NS50cw==
+#EXTINF:-1 group-title="Fusion",TSN 3 HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYyNjg3NC50cw==
+#EXTINF:-1 group-title="Fusion",TSN 4 HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYyNjg3My50cw==
+#EXTINF:-1 group-title="Fusion",TSN 5 HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYyNjg3Mi50cw==
 
 #EXTINF:-1 group-title="Music",Music Japan channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=5-15
 #EXTINF:-1 group-title="Music",Music Japan channel
 https://haru.charandom.blog/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Music",Music Japan channel
+http://58.82.168.138:5002/cs06.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="Music",Space Shower TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=5-15
 #EXTINF:-1 group-title="Music",Space Shower TV
 https://haru.charandom.blog/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Music",Space Shower TV
+http://58.82.168.138:5002/bs26.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="Music",MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=5-15
 #EXTINF:-1 group-title="Music",MTV Japan
 https://haru.charandom.blog/stream/jp/mtv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Music",MTV Japan
+http://58.82.168.138:5002/cs18.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="Music",Music on Japan
 https://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Kpop_TV_Play.png/revision/latest?cb=20230625152624",K-POP TV play
