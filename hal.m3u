@@ -50,6 +50,8 @@ https://haru.charandom.blog/stream/jp/mtv/stream-output.m3u8?mode=hls
 https://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Kpop_TV_Play.png/revision/latest?cb=20230625152624",K-POP TV play
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+#EXTINF:-1 group-title="Music",K-POP Mix
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
 
 #EXTINF:-1 group-title="HAL TV",驚艷台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
